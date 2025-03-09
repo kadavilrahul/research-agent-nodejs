@@ -11,8 +11,12 @@ This project contains a script to scrape content from a webpage, log in if neces
 1.  Clone the repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/kadavilrahul/research-agent-nodejs.git
     ```
+    ```bash
+    cd research-agent-nodejs
+    ```
+
 
 2.  Install dependencies:
 
